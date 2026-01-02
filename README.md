@@ -151,7 +151,7 @@ The application uses the following main tables:
 
 Default login credentials (after seeding):
 - Email: user@nextmail.com
-- Password: Check seed data
+- Password: 123456
 
 ## Deployment
 
